@@ -1,0 +1,87 @@
+# NAME WEB3
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:18:53
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+# Binance
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,coindesk.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,cointelegraph.com
+DOMAIN-SUFFIX,bitcoinmagazine.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,uzmancoin.com
+DOMAIN-SUFFIX,theblockcrypto.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,bnbchain.world
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,dfinity.org
+DOMAIN-SUFFIX,internetcomputer.org
+DOMAIN-SUFFIX,ic0.app
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitflyer.jp
+DOMAIN-SUFFIX,ftx.com
+DOMAIN-SUFFIX,ftx.us
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,axieinfinity.com
+DOMAIN-SUFFIX,rarible.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,matters.news
+DOMAIN-SUFFIX,meson.network
+DOMAIN-SUFFIX,glass.xyz
+DOMAIN-SUFFIX,avax.network
+DOMAIN-SUFFIX,pokt.network
+DOMAIN-SUFFIX,galaxy.eco
+DOMAIN-SUFFIX,alchemyapi.io
+DOMAIN-SUFFIX,cloudflare-eth.com
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,filecoin.io
+DOMAIN-SUFFIX,gateway.ipfs.io
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,coldcdn.com
+DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,infura-ipfs.io
+DOMAIN-SUFFIX,ipfs.infura.io
+DOMAIN-SUFFIX,gateway.pinata.cloud
+DOMAIN-SUFFIX,fleek.co
+DOMAIN-SUFFIX,ipfs.fleek.co
+DOMAIN-SUFFIX,web3.storage
+DOMAIN-SUFFIX,nft.storage
+DOMAIN-SUFFIX,matters-meson.net
+DOMAIN-SUFFIX,jorropo.net
+DOMAIN-SUFFIX,hardbin.com
+DOMAIN-SUFFIX,ipfs.mihir.ch
+DOMAIN-SUFFIX,ipfs.eth.aragon.network
+DOMAIN-SUFFIX,ipfs.telos.miami
+DOMAIN-SUFFIX,nftstorage.link
+DOMAIN-SUFFIX,video.oneloveipfs.com
+DOMAIN-SUFFIX,ipfs.zod.tv
+DOMAIN-SUFFIX,crustwebsites.net
+DOMAIN-SUFFIX,arweave.org
+DOMAIN-SUFFIX,arweave.net
+DOMAIN-SUFFIX,ardrive.io
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,walletconnect.org
